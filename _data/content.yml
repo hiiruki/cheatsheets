@@ -1,10 +1,10 @@
 home:
-  title: "Rico's cheatsheets"
+  title: "Hiiruki's cheatsheets"
   tagline: |
-    Hey! I'm <a href='https://ricostacruz.com'>@rstacruz</a> and this is a modest collection of cheatsheets I've written.
+    My cheatsheets for various programming languages and technologies. Forked from [devhints](https://devhints.io) by [@rstacruz](https://ricostacruz.com/)
 
 top_nav:
-  title: Devhints.io
+  title: c.hiiruki.dev
   edit: Edit
   edit_on_github: Edit this page on GitHub
 
@@ -12,8 +12,8 @@ sheet:
   suffix: cheatsheet
 
 social_list:
-  default_description: "Ridiculous collection of web development cheatsheets"
-  description: "The ultimate cheatsheet for TITLE."
+  default_description: "Hiiruki's cheatsheets (forked from devhints by @rstacruz)"
+  description: "Cheatsheets for various programming languages and technologies"
   facebook_share: Share on Facebook
   twitter_share: Share on Twitter
 
@@ -29,7 +29,7 @@ related_posts_group:
 search_form:
   default_placeholder: Search SIZE+ cheatsheets
   home_placeholder: Search...
-  prefix: devhints.io
+  prefix: c.hiiruki.dev
 
 comments_area:
   suffix: for this cheatsheet.

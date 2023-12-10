@@ -1,6 +1,6 @@
 {
   "name": "cheatsheets",
-  "description": "Devhints.io",
+  "description": "c.hiiruki.dev",
   "version": "1.0.0",
   "author": "Rico Sta. Cruz <rstacruz@users.noreply.github.com>",
   "dependencies": {
@@ -28,7 +28,7 @@
     "prettier": "^2.0.5",
     "wait-on": "^5.0.1"
   },
-  "homepage": "https://devhints.io/",
+  "homepage": "https://c.hiiruki.dev/",
   "jest": {
     "snapshotSerializers": [
       "<rootDir>/node_modules/jest-html"
