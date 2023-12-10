@@ -1,5 +1,5 @@
 ---
-full_title: "Devhints — for web development and more"
+full_title: "Hiiruki's cheatsheets"
 description: "TL;DR for developer documentation - a ridiculous collection of cheatsheets"
 layout: home
 type: home

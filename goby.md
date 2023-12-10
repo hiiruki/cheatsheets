@@ -1262,7 +1262,7 @@ Ready for Vim and Sublime text. You can also use Ruby's syntax highlighting so f
 
 * Official site: [https://goby-lang.org/](https://goby-lang.org/)
 * Repository: [https://github.com/goby-lang/goby/](https://github.com/goby-lang/goby/)
-* DevHints: [https://c.hiiruki.dev/goby](https://c.hiiruki.dev/goby) (this page)
+* Hiiruki's cheatsheets: [https://c.hiiruki.dev/goby](https://c.hiiruki.dev/goby) (this page)
 
 ### Readings for Goby developers
 

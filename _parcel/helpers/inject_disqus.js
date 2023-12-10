@@ -2,7 +2,7 @@
  * Injects disqus's scripts into the page.
  *
  * @example
- *     inject('devhints.disqus.com')
+ *     inject('hiiruki.disqus.com')
  */
 
 export default function inject(host) {
