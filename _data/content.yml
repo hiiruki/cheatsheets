@@ -1,7 +1,7 @@
 home:
   title: "Hiiruki's cheatsheets"
   tagline: |
-    My cheatsheets for various programming languages and technologies. Forked from [devhints](https://devhints.io) by [@rstacruz](https://ricostacruz.com/)
+    My cheatsheets for various programming languages and technologies. Forked from <a href='https://devhints.io/'>Devhints</a>) by <a href='https://ricostacruz.com'>@rstacruz</a>)
 
 top_nav:
   title: c.hiiruki.dev
