@@ -1,10 +1,11 @@
 ---
 title: Podman
 layout: 2017/sheet
-category: Podman
+category: Devops
 keywords:
-  - podman
-  - container
+  - Devops
+  - Podman
+  - Container
 intro: |
   Simple management tool for pods, containers and images.
   Podman provides a Docker-CLI comparable command-line. Simply put: `alias docker=podman`.
